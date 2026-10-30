@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/postman777li/postman777li/main/assets/profile-banner.png" alt="11an · Aspiring LLM Algorithm Engineer · I will become an algorithm engineer." width="100%" />
+  <img src="https://raw.githubusercontent.com/postman777li/postman777li/main/assets/profile-banner.png" alt="11an · 争者留其名 · I will become an algorithm engineer." width="100%" />
 </p>
 
 围绕 **语言模型的结构、训练与推理**做学习和实现，也把想法落成可交互的 Web 项目。
